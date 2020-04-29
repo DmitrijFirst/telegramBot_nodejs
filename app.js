@@ -51,3 +51,11 @@ setInterval(function(){
     }
   }
 }, 1000);
+
+function user(name, age) {
+    this.name = name;
+    this.age = age;
+}
+/**
+ * Тестируем работу гита
+ */
