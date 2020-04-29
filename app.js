@@ -54,22 +54,7 @@ setInterval(function(){
 
 
 /*#################################################*/
-function user(name, age) {
-    this.name = name;
-    this.age = age;
-}
-function user(name, age) {
-    this.name = name;
-    this.age = age;
-}
-function user(name, age) {
-    this.name = name;
-    this.age = age;
-}
-function user(name, age) {
-    this.name = name;
-    this.age = age;
-}
+
 /**
  * Тестируем работу гита
  */
