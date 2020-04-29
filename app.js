@@ -52,6 +52,20 @@ setInterval(function(){
   }
 }, 1000);
 
+
+/*#################################################*/
+function user(name, age) {
+    this.name = name;
+    this.age = age;
+}
+function user(name, age) {
+    this.name = name;
+    this.age = age;
+}
+function user(name, age) {
+    this.name = name;
+    this.age = age;
+}
 function user(name, age) {
     this.name = name;
     this.age = age;
